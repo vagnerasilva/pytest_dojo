@@ -40,3 +40,9 @@ https://docs.pytest.org/en/7.1.x/getting-started.html
 
 
 https://youtu.be/CwaHM-KLKC8
+
+
+
+
+
+pytest -s -v 
